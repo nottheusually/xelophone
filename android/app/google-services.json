@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755463181889",
+    "project_id": "authtesting-4dc09",
+    "storage_bucket": "authtesting-4dc09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755463181889:android:765690387f15eda05bd8c0",
+        "android_client_info": {
+          "package_name": "com.example.xelophone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr6J4K82Z8mzujhC3jMYIrMv3vEDwU6xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
